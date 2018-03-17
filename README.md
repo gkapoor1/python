@@ -5,3 +5,4 @@ My Python Programmes.
 3. Multiplication Table (MultiplicationTable.py)
 4. String Operations (StringOperations.py)
 5. List and Loops (ListOperations.py)
+6. Function Demo (Function.py)
