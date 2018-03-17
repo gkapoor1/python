@@ -6,3 +6,4 @@ My Python Programmes.
 4. String Operations (StringOperations.py)
 5. List and Loops (ListOperations.py)
 6. Function Demo (Function.py)
+7. Character Input (CharacterInput.py)
